@@ -14,7 +14,7 @@ end
 
 ### Standalone
 
-### Add [the code](lib/jekyll_oembed.rb) directly to your `_plugins` directory
+Add [the code](lib/jekyll_oembed.rb) directly to your `_plugins` directory
 Create the following plugin in your projects _plugins directory.
 
 If you do this, you will also need to add [`ruby-oembed`](https://github.com/ruby-oembed/ruby-oembed) to your `Gemfile`
@@ -41,7 +41,7 @@ To use an oembed, simply do the following. Pass the embedded url as plain text, 
 
 ## Attribution
 
-Thank you to
+Thank you to:
 - @vanto for the [plugin code](https://gist.github.com/vanto/1455726) that powers the gem
 - @stereobooster for creating a [different version](https://github.com/stereobooster/jekyll_oembed) of the gem
 
