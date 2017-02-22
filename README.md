@@ -1,4 +1,6 @@
-# oEmbed plugin for jekyll that creates an `oembed` liquid tag
+# jekyll-oembed
+
+oEmbed plugin for jekyll that creates an `oembed` liquid tag
 
 ## Installation
 

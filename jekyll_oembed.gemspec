@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |gem|
   gem.name          = "jekyll_oembed"
   gem.version       = '0.0.1'
-  gem.authors       = ["18F", "judofyr"]
+  gem.authors       = ["18F"]
   gem.license       = 'Nonstandard'
   gem.email         = ["brian.hedberg@gsa.com"]
   gem.description   = %q{Provides an oembed liquid tag for Jekyll}
