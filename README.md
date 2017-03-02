@@ -41,6 +41,11 @@ To use an oembed, simply do the following. Pass the embedded url as plain text, 
 `jekyll_oembed` does not support customizing width, height, or adding any attributes directly to the embedded HTML.
 
 
+## Limitations
+
+Protected URLs: some URLs are private. If this is the case, oembed _may_ not function properly
+
+
 ## Attribution
 
 Thank you to:
